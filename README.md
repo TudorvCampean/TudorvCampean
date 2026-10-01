@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Second-year Computer Science student at **Babeș-Bolyai University (UBB)**, Cluj-Napoca.
+- 🎓 Final-year Computer Science student at **Babeș-Bolyai University (UBB)**, Cluj-Napoca.
 - ⚡ Deeply interested in **low-latency programming**, **runtime performance**, and **code optimization** (memory hierarchy, cache locality, and minimal runtime overhead).
 - ☕ Extensive work in **Java**, building custom execution environments and modular architectures.
 - 🧩 Practicing algorithm efficiency, memory constraints, and time complexity on **[LeetCode](https://leetcode.com/u/campeantudor5/)**.
