@@ -50,6 +50,8 @@
 
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
+| **[EasyPrompt](https://github.com/TudorvCampean/EasyPrompt)** | Multi-agent LLM pipeline with Crafter → Verifier → Executor stages, automatic provider fallback routing, domain-specific profiles, and both Streamlit and CLI interfaces. | `Python` `Streamlit` `OpenAI API` |
+| **[myRedis](https://github.com/TudorvCampean/myRedis)** | From-scratch Redis-like in-memory data store featuring a non-blocking I/O event loop via `poll()`, length-prefixed TCP framing protocol, and concurrent connection handling. | `C++17` `CMake` `Linux Sockets` |
 | **[Toy Language Interpreter](https://github.com/TudorvCampean/ToyLanguageInterpreter)** | Modular interpreter featuring custom AST evaluation, program state tracking, heap memory allocation, file descriptors, and multithreaded concurrent execution. | `Java` `OOP` `Concurrency` `JavaFX` |
 | **[BattleBlaster](https://github.com/TudorvCampean/BattleBlaster)** | 3D gameplay project featuring custom actor components, procedural grid generation, and optimized game loop mechanics. | `Modern C++` `Unreal Engine 5` `Blender` |
 
