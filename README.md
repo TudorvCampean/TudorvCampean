@@ -57,15 +57,6 @@
 
 ---
 
-### 🧠 LeetCode & Problem Solving
-
-<div align="center">
-  <a href="https://leetcode.com/u/campeantudor5/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/campeantudor5?theme=nord&font=source_code_pro&ext=activity" alt="Tudor's LeetCode Stats" />
-  </a>
-</div>
-
----
 
 ### 📊 GitHub Overview
 
